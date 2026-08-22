@@ -12,9 +12,9 @@ export const projectsData = [
     inventory: [
       "232 Unit Rumah Subsidi / FLPP"
     ],
-    image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2075&auto=format&fit=crop",
+    image: "/assets/temporary/sektor_1.jpeg",
     gallery: [
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=1000&auto=format&fit=crop",
+      "/assets/temporary/sektor_1.jpeg",
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1000&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1000&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?q=80&w=1000&auto=format&fit=crop",
@@ -37,9 +37,9 @@ export const projectsData = [
       "23 Unit Rumah Komersil Terjangkau / RKT",
       "5 Unit Rumah Toko/Ruko"
     ],
-    image: "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop",
+    image: "/assets/temporary/sektor_2.1.jpeg",
     gallery: [
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop",
+      "/assets/temporary/sektor_2.1.jpeg",
       "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=1000&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?q=80&w=1000&auto=format&fit=crop",
       "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?q=80&w=1000&auto=format&fit=crop",
